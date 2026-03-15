@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"io"
 	"fmt"
-	"github.com/rasqi7/pokedexcli/pokecache"
+	"github.com/muafa7/pokedexcli/pokecache"
 	"time"
 )
 var cache = pokecache.NewCache(5 * time.Minute)

@@ -6,7 +6,7 @@ import (
 	"bufio"
 	"os"
 	"math/rand"
-	"github.com/rasqi7/pokedexcli/pokeapi"
+	"github.com/muafa7/pokedexcli/pokeapi"
 )
 
 const baseLocationURL = "https://pokeapi.co/api/v2/location-area"
