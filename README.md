@@ -10,7 +10,7 @@ Explore areas, encounter Pokémon, throw Pokéballs, and build your own Pokédex
 Clone the project:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pokedexcli.git
+git clone https://github.com/muafa7/pokedexcli.git
 cd pokedexcli
 ```
 
